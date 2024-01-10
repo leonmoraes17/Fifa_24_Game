@@ -1,0 +1,1 @@
+streamlit run "D:\Projects_GITHUB\Fifa Analysis\Streamlit_coding.py"
